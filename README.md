@@ -104,26 +104,7 @@ Me chamo Luana de Oliveira, tenho 26 anos. Concluí o curso técnico em informá
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg"
 />
 <br/>
-<br/>
-
-### 📊 Estatísticas
-
-<div style="display: flex; gap: 10px;">
-  <img 
-    alt="GitHub Stats"
-    height="200"
-    src="https://github-readme-stats.vercel.app/api?username=luholiveira56&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br"
-  />
-
-  <img 
-    alt="Top Langs"
-    height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=luholiveira56&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9"
-  />
-</div>
-
 #
-
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luvholiveira/luvholiveira/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luvholiveira/luvholiveira/output/github-contribution-grid-snake-dark.svg">
