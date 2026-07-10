@@ -2,7 +2,7 @@
 
 **`Engenheira de Qualidade de Software (QA)`**
 
-Me chamo Luana de Oliveira, tenho 26 anos. Concluí o curso técnico em informática no Senac e o curso graduação em Ciência da Computação na UNIP. Atualmente, sou Analista De Sistemas JR na área de Qualidade com foco em Automação e Garantia de Qualidade de Software (QA), além de forte atuação em testes manuais exploratórios e regressivos. Responsável por validar funcionalidades, identificar bugs e colaborar com times de desenvolvimento para garantir entregas com alta qualidade.
+Me chamo Luana de Oliveira, tenho 27 anos. Concluí o curso técnico em informática no Senac e o curso graduação em Ciência da Computação na UNIP. Atualmente, sou Analista De Sistemas PL na área de Qualidade com foco em Automação e Garantia de Qualidade de Software (QA), além de forte atuação em testes manuais exploratórios e regressivos. Responsável por validar funcionalidades, identificar bugs e colaborar com times de desenvolvimento para garantir entregas com alta qualidade.
 
 <div> 
   <a href="https://www.linkedin.com/in/oliveira--luana" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
