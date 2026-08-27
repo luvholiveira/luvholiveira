@@ -8,7 +8,7 @@ exploratórios, de integração e regressivos, validação de funcionalidades,
 identificação e rastreamento de bugs, e colaboração próxima com times de 
 desenvolvimento para garantir entregas consistentes e com alto padrão de qualidade.
 
-**🛠️ Stack de testes:** Selenium · Cypress · JavaScript/TypeScript · Azure DevOps
+**🛠️ Stack de testes:** Selenium · Cypress · JavaScript/TypeScript · Azure DevOps (CI/CD)
 
 Formação técnica em Informática pelo Senac e graduação em Ciência da Computação 
 pela UNIP.
