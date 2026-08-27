@@ -1,12 +1,14 @@
-# 👩🏻‍💻 Olá, sou a Luana Oliveira 👋
+### Olá, sou a Luana Oliveira 👋👩🏻‍💻
 
 **`Analista de Qualidade de Software (QA) | Testes Manuais & Automação`**
 
 Tenho 27 anos e atuo como Analista de Sistemas PL na área de Qualidade, com foco em 
-Automação de Testes e Garantia de Qualidade de Software. Minha rotina inclui testes 
-exploratórios e regressivos, validação de funcionalidades, identificação e 
-rastreamento de bugs, e colaboração próxima com times de desenvolvimento para 
-garantir entregas consistentes e com alto padrão de qualidade.
+Automação de Testes e Garantia de Qualidade de Software. Trabalho com testes 
+exploratórios, de integração e regressivos, validação de funcionalidades, 
+identificação e rastreamento de bugs, e colaboração próxima com times de 
+desenvolvimento para garantir entregas consistentes e com alto padrão de qualidade.
+
+**🛠️ Stack de testes:** Selenium · Cypress · JavaScript/TypeScript · Azure DevOps
 
 Formação técnica em Informática pelo Senac e graduação em Ciência da Computação 
 pela UNIP.
